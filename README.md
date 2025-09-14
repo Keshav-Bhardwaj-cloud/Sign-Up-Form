@@ -1,6 +1,6 @@
 # 🚀 Responsive Sign-Up Form  
 
-[![Live Preview]=>(https://keshav-bhardwaj-cloud.github.io/Sign-Up-Form/)
+Live Preview=>https://keshav-bhardwaj-cloud.github.io/Sign-Up-Form/
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Responsive](https://img.shields.io/badge/Responsive-Yes-green)
 
 ---
@@ -27,9 +27,9 @@ This project demonstrates your **front-end skills** and is ready for real-world 
 
 ## 👀 Project Preview
 ### Live Demo:  
-[![Live Preview](https://keshav-bhardwaj-cloud.github.io/Sign-Up-Form/)  
+Live Preview=>https://keshav-bhardwaj-cloud.github.io/Sign-Up-Form/ 
 
-### Screenshot / GIF:  
+### Screenshot / GIF: 
 ![Sign-Up Form GIF](link-to-your-demo.gif)  
 *Hover over input fields to see interactive effects in action!*  
 
